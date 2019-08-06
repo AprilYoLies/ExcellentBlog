@@ -87,6 +87,14 @@ Email：g863821569@gmail.com
 
 * [HTTP 协议中的 Transfer-Encoding](https://www.cnblogs.com/micro-chen/p/7183275.html)
 
+* [一次完整的HTTP事务是怎样一个过程？](https://blog.51cto.com/linux5588/1351007)
+
+* [数字签名是什么？](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)
+
+* [搞定计算机网络面试，看这篇就够了（补充版）](https://juejin.im/post/5b7be0b2e51d4538db34a51e)
+
+* [TCP的三次握手与四次挥手（详解+动图）](https://blog.csdn.net/qzcsu/article/details/72861891)
+
 ## spring 相关
 
 * [SpringMVC工作原理](https://www.cnblogs.com/xiaoxi/p/6164383.html)
@@ -95,6 +103,10 @@ Email：g863821569@gmail.com
 * [什么是倒排索引](https://www.cnblogs.com/zlslch/p/6440114.html)
 
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
+
+* [mysql实现topN top1](https://www.cnblogs.com/codeOfLife/p/7410620.html)
+
+* [MySQL索引原理及慢查询优化](https://tech.meituan.com/2014/06/30/mysql-index.html)
 
 ## 其它相关
 
