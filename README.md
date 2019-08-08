@@ -100,6 +100,7 @@ Email：g863821569@gmail.com
 * [SpringMVC工作原理](https://www.cnblogs.com/xiaoxi/p/6164383.html)
 
 ## 数据库相关
+
 * [什么是倒排索引](https://www.cnblogs.com/zlslch/p/6440114.html)
 
 * [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
@@ -108,6 +109,26 @@ Email：g863821569@gmail.com
 
 * [MySQL索引原理及慢查询优化](https://tech.meituan.com/2014/06/30/mysql-index.html)
 
+* [MySQL 中事务的实现](https://draveness.me/mysql-transaction)
+
+* [浅谈数据库并发控制 - 锁和 MVCC](https://draveness.me/database-concurrency-control)
+
 ## 其它相关
 
 * [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
+
+## Redis 相关
+
+* [Redis系列文章](https://blog.csdn.net/cuipeng0916/article/details/53561869)
+
+* [缓存与数据库双写一致](https://www.cnblogs.com/Java3y/p/10266306.html)
+
+* [史上最全Redis面试49题(含答案):哨兵+复制+事务+集群+持久化等](https://youzhixueyuan.com/redis-interview-question-49-answers.html)
+
+## 分布式事务
+
+* [分布式事务的实现原理](https://draveness.me/distributed-transaction-principle)
+
+## Nio 相关
+
+* [大话 Select、Poll、Epoll](https://cloud.tencent.com/developer/article/1005481)
