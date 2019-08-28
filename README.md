@@ -61,11 +61,21 @@ Email：g863821569@gmail.com
 
 * [深入理解HashMap(五): 关键源码逐行分析之put](https://segmentfault.com/a/1190000015826733)
 
+* [LinkedHashMap 源码详细分析（JDK1.8）](https://www.imooc.com/article/22931)
+
 > Synchronized 关键字实现原理
 
 * [深入分析synchronized的实现原理](https://blog.csdn.net/chenssy/article/details/54883355)
 
 * [深入理解Java并发之synchronized实现原理](https://blog.csdn.net/javazejian/article/details/72828483)
+
+> 基础知识
+
+* [Java hashCode() 和 equals()的若干问题解答](https://www.cnblogs.com/skywang12345/p/3324958.html)
+
+## JavaEE 相关
+
+* [cookie与session的区别](https://www.imooc.com/article/3369)
 
 ## JVM 相关
 
@@ -113,17 +123,19 @@ Email：g863821569@gmail.com
 
 * [浅谈数据库并发控制 - 锁和 MVCC](https://draveness.me/database-concurrency-control)
 
-## 其它相关
-
-* [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
-
 ## Redis 相关
 
 * [Redis系列文章](https://blog.csdn.net/cuipeng0916/article/details/53561869)
 
+* [从零单排学Redis【白银】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484386&idx=1&sn=323ddc84dc851a975530090fcd6e2326&chksm=ebd742e3dca0cbf52bc65d430447e639d81cc13e0ac34613edf464dae3950b10e2e1df74dcc5&token=1834317504&lang=zh_CN#rd)
+
 * [缓存与数据库双写一致](https://www.cnblogs.com/Java3y/p/10266306.html)
 
+* [高性能网站设计之缓存更新的套路](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/78693323)
+
 * [史上最全Redis面试49题(含答案):哨兵+复制+事务+集群+持久化等](https://youzhixueyuan.com/redis-interview-question-49-answers.html)
+
+* [缓存中的穿透、并发及雪崩](https://segmentfault.com/a/1190000013686915)
 
 ## 分布式事务
 
@@ -132,3 +144,5 @@ Email：g863821569@gmail.com
 ## Nio 相关
 
 * [大话 Select、Poll、Epoll](https://cloud.tencent.com/developer/article/1005481)
+
+* [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
