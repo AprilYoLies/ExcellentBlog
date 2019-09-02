@@ -105,6 +105,8 @@ Email：g863821569@gmail.com
 
 * [TCP的三次握手与四次挥手（详解+动图）](https://blog.csdn.net/qzcsu/article/details/72861891)
 
+* [你所不知道的TIME_WAIT和CLOSE_WAIT](https://mp.weixin.qq.com/s?__biz=MzI4MjA4ODU0Ng==&mid=402415747&idx=1&sn=2458ba4fe1830eecdb8db725d3f395fa&scene=1&srcid=0317kixDKODOMBEMqjenW4Jb)
+
 ## spring 相关
 
 * [SpringMVC工作原理](https://www.cnblogs.com/xiaoxi/p/6164383.html)
@@ -146,3 +148,13 @@ Email：g863821569@gmail.com
 * [大话 Select、Poll、Epoll](https://cloud.tencent.com/developer/article/1005481)
 
 * [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
+
+## 常见算法
+
+* [定时器的几种实现方式](https://www.cnkirito.moe/timer/)
+
+## 其他相关
+
+* [漫画：什么是协程？](https://www.itcodemonkey.com/article/4620.html)
+
+* [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
