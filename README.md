@@ -107,6 +107,8 @@ Email：g863821569@gmail.com
 
 * [你所不知道的TIME_WAIT和CLOSE_WAIT](https://mp.weixin.qq.com/s?__biz=MzI4MjA4ODU0Ng==&mid=402415747&idx=1&sn=2458ba4fe1830eecdb8db725d3f395fa&scene=1&srcid=0317kixDKODOMBEMqjenW4Jb)
 
+* [TCP慢启动、拥塞避免、快速重传、快速恢复](https://blog.csdn.net/itmacar/article/details/12278769)
+
 ## spring 相关
 
 * [SpringMVC工作原理](https://www.cnblogs.com/xiaoxi/p/6164383.html)
@@ -139,9 +141,15 @@ Email：g863821569@gmail.com
 
 * [缓存中的穿透、并发及雪崩](https://segmentfault.com/a/1190000013686915)
 
-## 分布式事务
+## 分布式相关
+
+* [漫画：什么是拜占庭将军问题？](https://blog.csdn.net/bjweimengshu/article/details/80222416)
 
 * [分布式事务的实现原理](https://draveness.me/distributed-transaction-principle)
+
+* [关于分布式事务、两阶段提交协议、三阶提交协议](http://www.hollischuang.com/archives/681)
+
+* [分布式系统事务一致性解决方案](https://www.infoq.cn/article/solution-of-distributed-system-transaction-consistency)
 
 ## Nio 相关
 
@@ -152,6 +160,18 @@ Email：g863821569@gmail.com
 ## 常见算法
 
 * [定时器的几种实现方式](https://www.cnkirito.moe/timer/)
+
+* [Kafka解惑之时间轮（TimingWheel）](https://blog.csdn.net/u013256816/article/details/80697456)
+
+* [中缀表达式转换为后缀表达式](https://blog.csdn.net/sgbfblog/article/details/8001651)
+
+* [字符串匹配的KMP算法](http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html)
+
+* [背包问题九讲](https://www.kancloud.cn/kancloud/pack/70125)
+
+* [流量控制算法——漏桶算法和令牌桶算法](https://www.jianshu.com/p/36bca4ed6d17)
+
+* [Dubbo--常见负载均衡算法分析](https://juejin.im/entry/5b13e712e51d4506da5a039b)
 
 ## 其他相关
 
