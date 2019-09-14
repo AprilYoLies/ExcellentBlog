@@ -93,7 +93,7 @@ Email：g863821569@gmail.com
 
 * [synchronized 关键字实现原理系列文章](https://www.hollischuang.com/archives/1883)
 
-## http 相关
+## HTTP 相关
 
 * [HTTP 协议中的 Transfer-Encoding](https://www.cnblogs.com/micro-chen/p/7183275.html)
 
@@ -109,7 +109,7 @@ Email：g863821569@gmail.com
 
 * [TCP慢启动、拥塞避免、快速重传、快速恢复](https://blog.csdn.net/itmacar/article/details/12278769)
 
-## spring 相关
+## Spring 相关
 
 * [SpringMVC工作原理](https://www.cnblogs.com/xiaoxi/p/6164383.html)
 
@@ -126,6 +126,8 @@ Email：g863821569@gmail.com
 * [MySQL 中事务的实现](https://draveness.me/mysql-transaction)
 
 * [浅谈数据库并发控制 - 锁和 MVCC](https://draveness.me/database-concurrency-control)
+
+* [MySQL大表优化方案](https://segmentfault.com/a/1190000006158186)
 
 ## Redis 相关
 
@@ -172,6 +174,8 @@ Email：g863821569@gmail.com
 * [流量控制算法——漏桶算法和令牌桶算法](https://www.jianshu.com/p/36bca4ed6d17)
 
 * [Dubbo--常见负载均衡算法分析](https://juejin.im/entry/5b13e712e51d4506da5a039b)
+
+* [操作系统进程（作业）调度常见算法详解](https://blog.csdn.net/guoweimelon/article/details/50847532)
 
 ## 其他相关
 
