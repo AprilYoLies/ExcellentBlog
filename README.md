@@ -87,6 +87,8 @@ Email：g863821569@gmail.com
 
 * [再有人问你Java内存模型是什么，就把这篇文章发给他](https://www.hollischuang.com/archives/2550)
 
+* [JVM调优参数简介、调优目标及调优经验](https://blog.csdn.net/jisuanjiguoba/article/details/80176223)
+
 > 内存模型：定义了在共享内存系统的场景下，多线程程序读写共享资源的行为规范
 
 > java 内存模型：在不同操作系统及硬件环境下，都能满足内存模型定义的 java 实现模型。目的是解决由于多线程通过共享内存进行通信时，存在的本地内存数据不一致、编译器会对代码指令重排序、处理器会对代码乱序执行等带来的问题。
@@ -129,6 +131,10 @@ Email：g863821569@gmail.com
 
 * [MySQL大表优化方案](https://segmentfault.com/a/1190000006158186)
 
+* [一条SQL语句执行得很慢的原因有哪些？](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485185&idx=1&sn=66ef08b4ab6af5757792223a83fc0d45&chksm=cea248caf9d5c1dc72ec8a281ec16aa3ec3e8066dbb252e27362438a26c33fbe842b0e0adf47&token=79317275&lang=zh_CN#rd)
+
+* [MySql 主从复制及配置实现](https://segmentfault.com/a/1190000008942618)
+
 ## Redis 相关
 
 * [Redis系列文章](https://blog.csdn.net/cuipeng0916/article/details/53561869)
@@ -153,11 +159,13 @@ Email：g863821569@gmail.com
 
 * [分布式系统事务一致性解决方案](https://www.infoq.cn/article/solution-of-distributed-system-transaction-consistency)
 
-## Nio 相关
+## Nio Netty 相关
 
 * [大话 Select、Poll、Epoll](https://cloud.tencent.com/developer/article/1005481)
 
 * [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
+
+* [对于 Netty ByteBuf 的零拷贝(Zero Copy) 的理解](https://www.cnblogs.com/xys1228/p/6088805.html)
 
 ## 常见算法
 
@@ -176,6 +184,8 @@ Email：g863821569@gmail.com
 * [Dubbo--常见负载均衡算法分析](https://juejin.im/entry/5b13e712e51d4506da5a039b)
 
 * [操作系统进程（作业）调度常见算法详解](https://blog.csdn.net/guoweimelon/article/details/50847532)
+
+* [浅谈Trie树（字典树）](https://www.cnblogs.com/TheRoadToTheGold/p/6290732.html)
 
 ## 其他相关
 
