@@ -187,6 +187,8 @@ Email：g863821569@gmail.com
 
 * [浅谈Trie树（字典树）](https://www.cnblogs.com/TheRoadToTheGold/p/6290732.html)
 
+* [GeoHash核心原理解析](https://www.cnblogs.com/LBSer/p/3310455.html)
+
 ## 其他相关
 
 * [漫画：什么是协程？](https://www.itcodemonkey.com/article/4620.html)
